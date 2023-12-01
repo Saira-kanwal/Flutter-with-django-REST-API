@@ -1,5 +1,6 @@
 # Flutter with Django REST API App
 
+![image](assets/images/flutter-django.webp)
 This repository hosts a powerful cross-platform mobile application built with Flutter and integrated with a Django REST API. The app provides a seamless user experience, leveraging the versatility of Flutter for the frontend and the robustness of Django for the backend.
 
 
@@ -11,7 +12,7 @@ This repository hosts a powerful cross-platform mobile application built with Fl
 - Easy Deployment: A comprehensive solution for deploying a feature-rich app with Flutter and Django.
 
 
-##Getting Started
+## Getting Started
 To explore the app and its integration with Django REST API:
 
 1. Ensure you have Flutter and Django installed on your machine. 
